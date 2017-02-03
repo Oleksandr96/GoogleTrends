@@ -1,0 +1,8 @@
+D:\projects\luxoft\Trends\ConsoleApplication6\bin\Debug\Trends analysis.exe.config
+D:\projects\luxoft\Trends\ConsoleApplication6\bin\Debug\Trends analysis.exe
+D:\projects\luxoft\Trends\ConsoleApplication6\bin\Debug\Trends analysis.pdb
+D:\projects\luxoft\Trends\ConsoleApplication6\bin\Debug\Newtonsoft.Json.dll
+D:\projects\luxoft\Trends\ConsoleApplication6\bin\Debug\Newtonsoft.Json.xml
+D:\projects\luxoft\Trends\ConsoleApplication6\obj\Debug\Trends analysis.exe
+D:\projects\luxoft\Trends\ConsoleApplication6\obj\Debug\Trends analysis.pdb
+D:\projects\luxoft\Trends\ConsoleApplication6\obj\Debug\TrendsAnalysis.csprojResolveAssemblyReference.cache
